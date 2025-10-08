@@ -1,15 +1,15 @@
-# Fit 2 Fly
+# Fit 4 Fun
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This is an app that tracks your fitness activities. Each fitness goal reached earns the user points. Once a user earns a certain number of points, they can redeem them in exchange for prizes (e.g. discounted flights, dinner for two, theatre tickets, etc.). Activites are tracked via a watch - either a user's personal watch or a fit4fun watch - that connects to the app. Activites are tracked using data such as HR, step count, breathing rate, duration, GPS, etc. Different activities earn different amounts of points (e.g. 10,000 steps per day earns fewer then 45min run). There is a maximum number of points users can earn per day to prevent overrtraining.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+People often lack motivation to get in shape for holidays/special occassions, or just in general. This gives them an incentive as it connects the idea of fitness to fun activites. I am an ex-professional athlete, turned personal trainer. I left my 10-year-long athletics career due to a loss of motivation. Biggest regret of my life, and I don't want others to make the same mistake, whatever level of fitness they may be. The next generation are becoming more interested in fitness, they also love to track their training. This allows them to earn fun experiences from training, helping them with motivation.
 
 This is how you make a list, if you need one:
 * problem 1
