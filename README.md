@@ -16,12 +16,8 @@ People often lack motivation to get in shape for holidays/special occassions, or
 
 Fit4Fun is really effective as it can benefit people of any age and any fitness background. Earning redeemable points is just one feature of the app, users will also have access to training programmes, nutrition plans/advice, the option to book into classes/events, and even meet personal trainers. Each user will go through a consultation process (slightly more in-depth PAR-Q). This can be carried out using AI: users will answer a series of health/fitness related questions, AI will then analyse their responses, log the data, and flag any concerns (e.g. individuals with disabilities, or at risk of a stroke etc. will not see the same suggestions on their app's feed as able-bodied people).
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![girl in gym]([https://github.com/claudialancejones/fit-2-fly/blob/main/girl_in_gym.png?raw=true)](https://github.com/claudialancejones/fit-2-fly/blob/main/girl%20in%20gym.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
-
+<img src="https://github.com/claudialancejones/fit-2-fly/blob/main/girl%20in%20gym.png" width="300">
 
 This is how you create code examples:
 ```
