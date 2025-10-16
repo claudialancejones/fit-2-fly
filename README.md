@@ -4,22 +4,17 @@ Final project for the Building AI course
 
 ## Summary
 
-This is an app that tracks your fitness activities. Each fitness goal reached earns the user points. Once a user earns a certain number of points, they can redeem them in exchange for prizes (e.g. discounted flights, dinner for two, theatre tickets, etc.). Activites are tracked via a watch - either a user's personal watch or a fit4fun watch - that connects to the app. Activites are tracked using data such as HR, step count, breathing rate, duration, GPS, etc. Different activities earn different amounts of points (e.g. 10,000 steps per day earns fewer then 45min run). There is a maximum number of points users can earn per day to prevent overrtraining.
+This is an app that tracks your fitness activities. Each fitness goal reached earns the user points. Once a user earns a certain number of points, they can redeem them in exchange for prizes (e.g. discounted flights, dinner for two, theatre tickets, etc.). Activites are tracked via a watch - either a user's personal watch or a fit4fun watch - that connects to the app. Activites are tracked using data such as HR, step count, breathing rate, duration, GPS, etc. Different activities earn different amounts of points (e.g. 10,000 steps per day earns fewer than a 45min interval session). There is a maximum number of points users can earn per day to prevent overtraining.
 
 
 ## Background
 
-People often lack motivation to get in shape for holidays/special occassions, or just in general. This gives them an incentive as it connects the idea of fitness to fun activites. I am an ex-professional athlete, turned personal trainer. I left my 10-year-long athletics career due to a loss of motivation. Biggest regret of my life, and I don't want others to make the same mistake, whatever level of fitness they may be. The next generation are becoming more interested in fitness, they also love to track their training. This allows them to earn fun experiences from training, helping them with motivation.
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+People often lack motivation to get in shape for holidays/special occassions, or just in general. This gives them an incentive as it connects the idea of fitness to fun activites. I am an ex-professional athlete, turned personal trainer. I left my 10-year-long athletics career due to a loss of motivation. It was the biggest regret of my life, so I am passionate about helping others remain committed to exercise, whatever level of fitness they may be. Additionally, the younger generations are becoming more interested in fitness, and they also love to track their training. This allows them to earn fun experiences from training and stay committed.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Fit4Fun is really effective as it can benefit people of any age and any fitness background. Earning redeemable points is just one feature of the app, users will also have access to training programmes, nutrition plans/advice, the option to book into classes/events, and even meet personal trainers. Each user will go through a consultation process (slightly more in-depth PAR-Q). This can be carried out using AI: users will answer a series of health/fitness related questions, AI will then analyse their responses, log the data, and flag any concerns (e.g. individuals with disabilities, or at risk of a stroke etc. will not see the same suggestions on their app's feed as able-bodied people).
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
